@@ -4,5 +4,6 @@
 <body>
 <b>Hello World</b>
 яндекс метрика
+Google Analytics
 </body>
 </html>
