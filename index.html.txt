@@ -3,5 +3,6 @@
 </head>
 <body>
 <b>Hello World</b>
+Google Analytics
 </body>
 </html>
