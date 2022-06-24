@@ -3,5 +3,6 @@
 </head>
 <body>
 <b>Hello World</b>
+яндекс метрика
 </body>
 </html>
